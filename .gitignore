@@ -17,6 +17,9 @@
 # This is user generated as part of the config process
 config/initializers/00_first_initializer.rb
 
+/config/*.yml
+/.idea
+
 # For simplecov
 coverage
 
